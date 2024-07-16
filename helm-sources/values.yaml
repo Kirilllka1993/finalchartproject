@@ -1,6 +1,7 @@
 namespace: project
 image:
-  repository: jfrog.it-academy.by/public/jenkins-ci
+  repository: jfrog.it-academy.by/public/kazimirov
+  tag: testweb
   pullPolicy: IfNotPresent
 deployment:
   replicas: 1
